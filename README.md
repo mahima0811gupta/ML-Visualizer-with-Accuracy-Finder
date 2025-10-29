@@ -113,8 +113,4 @@ ML-Visualizer-with-Accuracy-Finder/
 * Perfect for students, researchers, and data scientists.
 
 
----
-
-Would you like me to **add sample screenshots and output GIFs** section to make it GitHub-ready (for visual appeal)?
-```
 
